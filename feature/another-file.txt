@@ -9,3 +9,5 @@ Anohter modification in feature-2 branch
 Returning to previous author
 
 Failed to return to previous credentials, trying again
+
+Third try to return to previous credentials
